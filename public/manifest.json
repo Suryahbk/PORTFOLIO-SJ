@@ -1,0 +1,15 @@
+{
+  "short_name": "Ssurya",
+  "name": "Ssurya - Portfolio",
+  "icons": [
+    {
+      "src": "images/sj.jpg",
+      "type": "image/jpg",
+      "sizes": "425x225"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
